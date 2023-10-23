@@ -1,0 +1,4 @@
+JSX = javascript syntax exttension
+used to insert dynamic javascript in react components 
+
+porpos is a JS object which we are passing form parent(App.js) to (child)header.js
